@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "239614880103",
+    "firebase_url": "https://flash-chat-2d87f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "flash-chat-2d87f",
+    "storage_bucket": "flash-chat-2d87f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239614880103:android:e9f5a1d9d47b03143a27c2",
+        "android_client_info": {
+          "package_name": "com.cheaheang.flash_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNfhV-NAKvkWnloWyJzOtgy6287gHMXy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
